@@ -8,7 +8,7 @@
 
 
 
-### Glad to see you here!  
+### About me!  
 I prefer python, rust and go over other languages. I have experience in penetration testing, backend development, creating various bots and much more.   
   
 
