@@ -53,7 +53,8 @@ I prefer python, rust and go over other languages. I have experience in penetrat
  
 
 ### Donation  
- [![Donate](https://brianmacdonald.github.io/Ethonate/svg/eth-donate-blue.svg)](https://brianmacdonald.github.io/Ethonate/address#0xCE798299aE1963dB012C07C0efaA43Ceee524880)  
+ [![Donate](https://img.shields.io/badge/donate-eth-blue.svg)](https://brianmacdonald.github.io/Ethonate/address#0xCE798299aE1963dB012C07C0efaA43Ceee524880)
+ [![Donate](https://img.shields.io/badge/donate-btc-blue.svg)](https://www.blockchain.com/btc/address/bc1q439gm35xdujznzv9m73xx4wqd0vlwhzhcdent8)
 
 <br />
 
