@@ -52,11 +52,4 @@ I prefer python, rust and go over other languages. I have experience in penetrat
 
  
 
-### Donation  
- [![Donate](https://img.shields.io/badge/donate-eth-blue.svg)](https://brianmacdonald.github.io/Ethonate/address#0xCE798299aE1963dB012C07C0efaA43Ceee524880)
- [![Donate](https://img.shields.io/badge/donate-btc-blue.svg)](https://www.blockchain.com/btc/address/bc1q5zcc49t35dhlwzkl48nm4nhdzwd9cen2tr0lkm)
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
